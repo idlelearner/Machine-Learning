@@ -1,0 +1,6 @@
+diagFisher.m - Classification of Fisher linear discriminant using within class covariance between class calculated from the data given
+Fisher.m - Classfication of Fisher linear discriminant using within class covariance between classes calculated from the data given
+sqClass.m - Least Squares Linear Discriminant
+LogisticRegression.m - logistic Regression for multivariate classification
+naiveBayesDiscrete.m - naiveBayes for document classification
+
